@@ -1,1 +1,1 @@
-Trabalho envolve o conceito de árvore geradora mínima em um grafo. No caso em específico, o problema envolvia passar um cabeamento de fibra-ótica por municípios de Minas Gerais usando o menor caminho para isso.
+Trabalho envolve o conceito de árvore geradora mínima em um grafo. No caso em específico, o problema envolvia passar um cabeamento de fibra-ótica por municípios de Minas Gerais usando o menor caminho, para isso foi utilizado o algoritmo de Prim.
