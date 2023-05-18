@@ -8,7 +8,7 @@ matadj = []
 rota_maiscurta = []
 distTotal_pixel = 0
 distTotal_km = 0
-#função para pegar as coordenadas do clique
+#take click coordinates
 def click_event(event, x, y, flags, params):
  
     # checking for left mouse clicks
